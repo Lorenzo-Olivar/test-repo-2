@@ -1,1 +1,1 @@
-# test-repo-2
+Made this test repo to practice how to make a repo in GitHub and clone it to my local machine. 
